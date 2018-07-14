@@ -4,3 +4,6 @@ cba
 totti
 soon
 faded
+school
+smart
+book
